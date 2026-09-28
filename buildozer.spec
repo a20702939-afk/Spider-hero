@@ -1,5 +1,5 @@
 [app]
-
+android.accept_sdk_license = True
 title = MANCH
 package.name = manch
 package.domain = org.amirreza
